@@ -41,6 +41,11 @@ Contact Page -
 ![Contact Page](https://github.com/user-attachments/assets/b5a012e6-c5de-4592-99c0-81b5c003889b)
 
 
+Kindly find the figma link here - 
+
+https://www.figma.com/design/68viINjO462czjGji7mxYz/EcoDrop?node-id=0-1&t=p32H0KEz06YpzhRS-1
+
+
 
 
 
